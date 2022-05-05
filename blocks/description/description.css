@@ -1,5 +1,6 @@
+@import url('_margin/description_margin_100.css');
+
 .description {
   display: flex;
-  padding: 100px;
   justify-content: center;
 }
