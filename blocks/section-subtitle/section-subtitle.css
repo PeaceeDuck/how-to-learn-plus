@@ -1,7 +1,7 @@
-@import url("_margin/section-subtitle_margin_auto.css");
-@import url("_theme/section-subtitle_theme_dark.css");
+@import url('_theme/section-subtitle_theme_dark.css');
 
 .section-subtitle {
+  margin: 0;
   display: block;
   width: 60%;
   text-align: center;
