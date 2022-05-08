@@ -1,0 +1,13 @@
+.footer__column-link {
+  margin: 0 0 10px;
+  font-size: 18px;
+  line-height: normal;
+  line-height: 18px;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.footer__column-link:last-of-type {
+  margin: 0;
+}
