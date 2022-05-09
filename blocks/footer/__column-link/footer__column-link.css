@@ -6,6 +6,7 @@
   cursor: pointer;
   color: rgb(255, 255, 255);
   text-decoration: none;
+  font-weight: normal;
 }
 
 .footer__column-link:last-of-type {

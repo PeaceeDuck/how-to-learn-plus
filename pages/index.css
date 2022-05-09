@@ -18,3 +18,7 @@
 @import url("../blocks/khan/khan.css");
 @import url("../blocks/video/video.css");
 @import url("../blocks/rotation/rotation.css");
+
+.page {
+  font-family: "Inter", sans-serif;
+}
