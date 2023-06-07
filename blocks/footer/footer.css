@@ -1,0 +1,9 @@
+.footer {
+  background-color: rgba(31, 31, 31);
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  padding: 60px 0 40px;
+  min-height: 350px;
+  box-sizing: border-box;
+}
